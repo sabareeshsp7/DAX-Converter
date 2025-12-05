@@ -105,10 +105,6 @@ CALCULATE(SUM(Sales[Sales]), Sales[Year] = 2023, Sales[Region] IN {"North", "Sou
 5. Push to branch (`git push origin feature-name`)
 6. Open a pull request
 
-## License
-
-MIT License - feel free to use this project for personal or commercial purposes.
-
 ## Acknowledgments
 
 Built with Streamlit for rapid prototyping and Pandas for robust CSV handling. Inspired by the need to simplify BI tool migrations.
